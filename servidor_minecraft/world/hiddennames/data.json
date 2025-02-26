@@ -1,0 +1,245 @@
+[
+  {
+    "uuid": "4ea4788f-9efb-3536-a943-099eea04c56d",
+    "displayName": {
+      "insertion": "Eltintinn",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Eltintinn "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "4ea4788f-9efb-3536-a943-099eea04c56d",
+          "name": {
+            "text": "Eltintinn"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Eltintinn"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "aae909ca-8c1a-3db0-819a-ff5f1fb6b09e",
+    "displayName": {
+      "insertion": "TomanoMC",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell TomanoMC "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "aae909ca-8c1a-3db0-819a-ff5f1fb6b09e",
+          "name": {
+            "text": "TomanoMC"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "TomanoMC"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "c80b607a-374c-3e73-8977-e1fba99eaef9",
+    "displayName": {
+      "insertion": "pipeeessj",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell pipeeessj "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "c80b607a-374c-3e73-8977-e1fba99eaef9",
+          "name": {
+            "text": "pipeeessj"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "pipeeessj"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "2cddb419-66c7-3caa-92ab-6dd19c937bf6",
+    "displayName": {
+      "insertion": "NeozZ_BlodD",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell NeozZ_BlodD "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "2cddb419-66c7-3caa-92ab-6dd19c937bf6",
+          "name": {
+            "text": "NeozZ_BlodD"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "NeozZ_BlodD"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "f4e6d21f-ff30-3381-a0ac-8dda38e4907c",
+    "displayName": {
+      "insertion": "Timothy255",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Timothy255 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "f4e6d21f-ff30-3381-a0ac-8dda38e4907c",
+          "name": {
+            "text": "Timothy255"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Timothy255"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "e09bc419-daa7-3bce-831f-5ec62030ef09",
+    "displayName": {
+      "insertion": "sinergias",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell sinergias "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "e09bc419-daa7-3bce-831f-5ec62030ef09",
+          "name": {
+            "text": "sinergias"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "sinergias"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "a143b7f1-e154-3751-9325-6f89ab059d43",
+    "displayName": {
+      "insertion": "Neo_profeci",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Neo_profeci "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "a143b7f1-e154-3751-9325-6f89ab059d43",
+          "name": {
+            "text": "Neo_profeci"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Neo_profeci"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "c1bda1ca-31db-39dd-b531-39ac3b4cde5e",
+    "displayName": {
+      "insertion": "Mateo2026",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Mateo2026 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "c1bda1ca-31db-39dd-b531-39ac3b4cde5e",
+          "name": {
+            "text": "Mateo2026"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Mateo2026"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "7f899fbb-f531-3c9a-9b0b-c2ef3e1c96ae",
+    "displayName": {
+      "insertion": "DocSak",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell DocSak "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "7f899fbb-f531-3c9a-9b0b-c2ef3e1c96ae",
+          "name": {
+            "text": "DocSak"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "DocSak"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
