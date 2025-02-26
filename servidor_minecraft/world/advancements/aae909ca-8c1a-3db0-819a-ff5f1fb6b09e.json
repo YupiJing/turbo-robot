@@ -6459,15 +6459,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/guano": {
     "criteria": {
       "guano": "2025-02-26 06:08:16 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-02-26 06:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
     },
     "done": true
   },
@@ -6483,9 +6525,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-02-26 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_forecast": {
+    "criteria": {
+      "has_weather_item": "2025-02-26 07:17:27 +0000"
     },
     "done": true
   },
@@ -6507,6 +6561,60 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/wind_vane": {
+    "criteria": {
+      "has_weather_item": "2025-02-26 07:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-26 06:52:59 +0000"
@@ -6519,15 +6627,87 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-02-26 05:58:06 +0000"
     },
     "done": true
   },
+  "weather2:recipes/misc/anemometer": {
+    "criteria": {
+      "has_weather_item": "2025-02-26 07:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-02-26 06:30:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/tornado_sensor": {
+    "criteria": {
+      "has_weather_item": "2025-02-26 07:17:27 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_item": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_deflector": {
+    "criteria": {
+      "has_weather_item": "2025-02-26 07:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-26 07:17:05 +0000"
     },
     "done": true
   },
