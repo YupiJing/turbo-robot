@@ -6651,6 +6651,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-26 08:05:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-02-26 07:17:05 +0000"

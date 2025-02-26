@@ -7434,6 +7434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-26 08:03:50 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-02-26 05:41:52 +0000"
