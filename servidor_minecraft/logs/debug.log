@@ -7255,3 +7255,26 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 05:59:42.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 05:59:42.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Feb2025 05:59:44.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [The Wind Darkening]
+[26Feb2025 06:01:15.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Yasumitsu'/33626, l='ServerLevel[world]', x=-1978.23, y=74.18, z=908.50] died: Yasumitsu was slain by Foliaath
+[26Feb2025 06:04:42.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 06:04:42.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 06:05:07.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [That is One Big Pile of...]
+[26Feb2025 06:05:11.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Hans Moleman]
+[26Feb2025 06:06:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Corrodon't]
+[26Feb2025 06:06:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Hans Moleman]
+[26Feb2025 06:08:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [That is One Big Pile of...]
+[26Feb2025 06:09:42.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 06:09:42.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 06:12:01.198] [Worker-Main-44/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-2232, y=67, z=1250}
+[26Feb2025 06:12:01.199] [Worker-Main-44/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[26Feb2025 06:12:01.199] [Worker-Main-44/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[26Feb2025 06:12:01.199] [Worker-Main-44/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJKJ0JOP17+pPZx7v
+[26Feb2025 06:12:59.504] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 98e3e08f: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Feb2025 06:13:02.753] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 98e3e08f: RandomSpreadSearchWorker succeeded with 4645 radius, 6182 samples
+[26Feb2025 06:13:02.754] [Server thread/ERROR] [explorerscompass/]: SearchWorkerManager 98e3e08f: RandomSpreadSearchWorker found invalid compass after successful search
+[26Feb2025 06:14:42.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 06:14:42.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 06:18:34.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1903, y=55, z=979} BlockPos{x=-1905, y=51, z=979}
+[26Feb2025 06:19:42.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 06:19:42.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 06:20:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Jennifer Dumped Me]

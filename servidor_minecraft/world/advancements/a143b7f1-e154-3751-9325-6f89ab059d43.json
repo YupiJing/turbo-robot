@@ -7391,9 +7391,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-02-26 06:06:22 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_overgrown_colossus": {
     "criteria": {
       "colossus": "2025-02-26 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-02-26 06:05:07 +0000"
     },
     "done": true
   },
@@ -7430,6 +7442,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-02-26 06:03:02 +0000"
     },
     "done": true
   },
@@ -7472,6 +7490,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-02-26 06:05:11 +0000"
     },
     "done": true
   },
