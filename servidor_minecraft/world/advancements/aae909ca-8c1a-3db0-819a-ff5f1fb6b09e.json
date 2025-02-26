@@ -132,6 +132,7 @@
       "volcanic_plains": "2025-02-24 04:41:49 +0000",
       "lavender_field": "2025-02-24 06:17:50 +0000",
       "prairie": "2025-02-20 20:41:09 +0000",
+      "undergrowth": "2025-02-26 04:59:01 +0000",
       "rainforest": "2025-02-24 04:21:15 +0000",
       "crag": "2025-02-25 01:59:07 +0000"
     },
@@ -6016,6 +6017,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-26 04:57:54 +0000",
       "minecraft:nether_wastes": "2025-02-25 03:30:32 +0000",
       "minecraft:soul_sand_valley": "2025-02-25 06:39:27 +0000"
     },
@@ -6444,6 +6446,12 @@
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2025-02-25 06:58:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-26 04:58:03 +0000"
     },
     "done": true
   },

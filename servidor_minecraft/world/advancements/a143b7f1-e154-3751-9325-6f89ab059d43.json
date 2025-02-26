@@ -107,6 +107,7 @@
       "lavender_field": "2025-02-24 06:16:41 +0000",
       "prairie": "2025-02-20 20:40:45 +0000",
       "grassland": "2025-02-24 06:44:25 +0000",
+      "undergrowth": "2025-02-26 05:02:57 +0000",
       "rainforest": "2025-02-24 04:23:09 +0000",
       "crag": "2025-02-25 01:59:02 +0000"
     },
@@ -851,6 +852,7 @@
     "criteria": {
       "minecraft:blaze": "2025-02-25 06:44:14 +0000",
       "minecraft:skeleton": "2025-02-24 00:26:54 +0000",
+      "minecraft:ghast": "2025-02-26 04:58:53 +0000",
       "minecraft:hoglin": "2025-02-24 05:04:05 +0000",
       "minecraft:magma_cube": "2025-02-25 06:58:33 +0000",
       "minecraft:spider": "2025-02-24 00:45:40 +0000",
@@ -6791,6 +6793,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-26 05:00:18 +0000",
       "minecraft:nether_wastes": "2025-02-25 03:36:11 +0000",
       "minecraft:soul_sand_valley": "2025-02-25 06:39:08 +0000"
     },
@@ -7375,6 +7378,30 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-02-25 06:58:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-26 05:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-26 04:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
     },
     "done": true
   },
