@@ -7198,45 +7198,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-02-25 05:40:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-25 06:48:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-25 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-25 06:38:50 +0000"
     },
     "done": true
   },
@@ -7246,9 +7210,33 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
-      "killed_by": "2025-02-25 06:38:27 +0000"
+      "has_item": "2025-02-25 05:53:02 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-25 05:53:02 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-02-25 05:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
     },
     "done": true
   },
@@ -7258,9 +7246,27 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "loot_bastion_other": "2025-02-25 06:32:47 +0000"
+      "bastion": "2025-02-25 06:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
     },
     "done": true
   },
@@ -7276,51 +7282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-02-25 06:42:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-25 06:38:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_helmet": {
-    "criteria": {
-      "has_item": "2025-02-25 05:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-02-25 06:58:40 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_leggings": {
-    "criteria": {
-      "has_item": "2025-02-25 05:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-02-25 06:43:24 +0000"
     },
     "done": true
   },
@@ -7330,15 +7294,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_soul_sand": "2025-02-25 06:40:22 +0000"
+      "loot_bastion_other": "2025-02-25 06:32:47 +0000"
     },
     "done": true
   },
-  "celestisynth:recipes/combat/solar_crystal_boots": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_item": "2025-02-25 05:53:02 +0000"
+      "killed_by": "2025-02-25 06:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:50 +0000"
     },
     "done": true
   },
@@ -7348,21 +7324,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_blaze_rod": "2025-02-25 06:48:18 +0000"
+      "has_soul_sand": "2025-02-25 06:40:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
+      "has_soul_sand": "2025-02-25 06:40:22 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "bastion": "2025-02-25 06:31:47 +0000"
+      "in_better_fortress": "2025-02-25 06:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-25 06:43:24 +0000"
     },
     "done": true
   },
@@ -7372,9 +7354,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-25 06:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 06:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-25 06:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-25 06:58:40 +0000"
     },
     "done": true
   },

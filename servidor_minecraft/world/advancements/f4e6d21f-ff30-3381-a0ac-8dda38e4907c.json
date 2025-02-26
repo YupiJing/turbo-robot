@@ -5575,111 +5575,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-02-25 00:01:01 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_cloudy_temple": {
-    "criteria": {
-      "cloudy_temple": "2025-02-25 00:43:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-02-25 00:18:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-02-25 00:21:54 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-02-25 00:28:15 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-25 00:21:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-02-25 00:28:15 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-02-25 00:00:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "has_red_wool": "2025-02-25 00:21:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-25 00:18:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-02-25 00:12:50 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-02-25 00:18:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-02-25 00:05:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-02-25 00:28:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-02-25 00:21:54 +0000"
+      "killed_by": "2025-02-25 00:01:01 +0000"
     },
     "done": true
   },
@@ -5695,15 +5599,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_slime_ball": "2025-02-25 00:28:15 +0000"
+      "cave_tablet": "2025-02-25 00:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-02-25 00:12:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-25 00:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-25 00:18:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-25 00:18:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-25 00:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-25 00:21:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-25 00:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-25 00:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-25 00:21:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-25 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-25 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-25 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-25 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-25 00:43:07 +0000"
     },
     "done": true
   },
