@@ -1041,3 +1041,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 06:37:45.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [A Seedy Place]
 [26Feb2025 06:50:40.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> 12 netherite
 [26Feb2025 06:50:46.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> 4 lagrimas de ghast
+[26Feb2025 07:08:24.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=54, z=-164} BlockPos{x=-258, y=55, z=-165}
