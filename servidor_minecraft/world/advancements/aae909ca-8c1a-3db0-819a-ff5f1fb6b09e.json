@@ -6464,9 +6464,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-02-26 06:22:04 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-02-26 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-26 06:30:06 +0000"
     },
     "done": true
   },
@@ -6485,6 +6497,12 @@
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-02-26 05:58:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-26 06:30:06 +0000"
     },
     "done": true
   },
