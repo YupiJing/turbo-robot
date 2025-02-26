@@ -888,3 +888,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 21:59:33.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [26Feb2025 22:01:14.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC lost connection: Disconnected
 [26Feb2025 22:01:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC left the game
+[26Feb2025 22:18:30.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TomanoMC[/127.168.11.75:41199] logged in with entity id 1188 at (-2131.3822800016246, 65.0, -799.7676680662919)
+[26Feb2025 22:18:30.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC joined the game
+[26Feb2025 22:18:30.609] [Server thread/INFO] [Jade/]: Syncing config to TomanoMC (aae909ca-8c1a-3db0-819a-ff5f1fb6b09e)
