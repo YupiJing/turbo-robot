@@ -1193,6 +1193,7 @@
       "minecraft:creeper": "2025-02-24 02:03:51 +0000",
       "minecraft:slime": "2025-02-25 03:13:06 +0000",
       "minecraft:phantom": "2025-02-24 04:59:35 +0000",
+      "minecraft:zombified_piglin": "2025-02-26 06:48:03 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:33:35 +0000",
       "minecraft:husk": "2025-02-24 00:33:17 +0000",
       "minecraft:cave_spider": "2025-02-24 02:01:06 +0000",
@@ -6452,9 +6453,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-26 06:52:59 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/guano": {
     "criteria": {
       "guano": "2025-02-26 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-26 06:53:58 +0000"
     },
     "done": true
   },
@@ -6491,6 +6504,18 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-26 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-26 06:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-26 06:52:59 +0000"
     },
     "done": true
   },
