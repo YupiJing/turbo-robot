@@ -133,6 +133,7 @@
       "volcanic_plains": "2025-02-24 04:41:49 +0000",
       "lavender_field": "2025-02-24 06:17:50 +0000",
       "prairie": "2025-02-20 20:41:09 +0000",
+      "glowing_grotto": "2025-02-26 05:55:50 +0000",
       "undergrowth": "2025-02-26 04:59:01 +0000",
       "rainforest": "2025-02-24 04:21:15 +0000",
       "crag": "2025-02-25 01:59:07 +0000"
@@ -3234,7 +3235,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-02-24 01:47:11 +0000",
-      "in_better_spider_dungeon": "2025-02-24 06:20:04 +0000"
+      "in_better_spider_dungeon": "2025-02-24 06:20:04 +0000",
+      "in_better_skeleton_dungeon": "2025-02-26 05:56:56 +0000"
     },
     "done": false
   },
@@ -6450,9 +6452,21 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-02-26 05:56:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-26 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-02-26 05:58:06 +0000"
     },
     "done": true
   },

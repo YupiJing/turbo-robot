@@ -107,6 +107,7 @@
       "lavender_field": "2025-02-24 06:16:41 +0000",
       "prairie": "2025-02-20 20:40:45 +0000",
       "grassland": "2025-02-24 06:44:25 +0000",
+      "glowing_grotto": "2025-02-26 05:40:14 +0000",
       "undergrowth": "2025-02-26 05:02:57 +0000",
       "rainforest": "2025-02-24 04:23:09 +0000",
       "crag": "2025-02-25 01:59:02 +0000"
@@ -860,6 +861,7 @@
       "minecraft:piglin_brute": "2025-02-24 23:03:27 +0000",
       "minecraft:creeper": "2025-02-24 03:03:19 +0000",
       "minecraft:phantom": "2025-02-24 04:56:34 +0000",
+      "minecraft:witch": "2025-02-26 05:40:46 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:34:14 +0000",
       "minecraft:husk": "2025-02-24 00:28:20 +0000",
       "minecraft:cave_spider": "2025-02-24 07:13:00 +0000",
@@ -3740,7 +3742,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-02-24 02:05:45 +0000",
-      "in_better_spider_dungeon": "2025-02-24 06:21:49 +0000"
+      "in_better_spider_dungeon": "2025-02-24 06:21:49 +0000",
+      "in_better_skeleton_dungeon": "2025-02-26 05:41:52 +0000"
     },
     "done": false
   },
@@ -7400,15 +7403,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-26 05:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_blinds": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-02-26 05:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
     },
     "done": true
   },
@@ -7472,6 +7505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
@@ -7487,6 +7526,18 @@
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-26 05:57:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-02-26 05:58:32 +0000"
     },
     "done": true
   },
@@ -7517,6 +7568,12 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-26 05:57:14 +0000"
     },
     "done": true
   },
