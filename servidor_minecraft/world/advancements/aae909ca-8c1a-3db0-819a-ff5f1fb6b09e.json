@@ -6705,6 +6705,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-26 08:26:18 +0000"
+    },
+    "done": true
+  },
   "weather2:recipes/misc/weather_deflector": {
     "criteria": {
       "has_weather_item": "2025-02-26 07:17:27 +0000"
