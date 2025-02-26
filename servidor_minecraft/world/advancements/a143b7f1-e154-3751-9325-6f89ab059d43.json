@@ -262,6 +262,7 @@
       "minecraft:dripstone_caves": "2025-02-24 06:46:54 +0000",
       "minecraft:swamp": "2025-02-24 06:05:28 +0000",
       "minecraft:forest": "2025-02-24 06:05:25 +0000",
+      "minecraft:lush_caves": "2025-02-26 05:35:13 +0000",
       "minecraft:ocean": "2025-02-24 00:52:13 +0000",
       "minecraft:jungle": "2025-02-25 05:16:40 +0000",
       "minecraft:windswept_savanna": "2025-02-24 06:23:47 +0000",
@@ -7381,9 +7382,51 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-02-26 05:36:57 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_overgrown_colossus": {
     "criteria": {
       "colossus": "2025-02-26 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
     },
     "done": true
   },
@@ -7393,15 +7436,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-26 05:02:28 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-26 05:15:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
     },
     "done": true
   },
@@ -7420,6 +7505,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-26 04:58:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
     },
     "done": true
   },

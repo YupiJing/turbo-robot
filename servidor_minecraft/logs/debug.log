@@ -7197,3 +7197,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Feb2025 05:27:50.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
 [26Feb2025 05:28:32.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 05:28:32.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 05:31:11.635] [Worker-Main-45/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1548, y=64, z=912}
+[26Feb2025 05:31:11.635] [Worker-Main-45/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[26Feb2025 05:31:11.635] [Worker-Main-45/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[26Feb2025 05:31:11.635] [Worker-Main-45/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOSyOWJPyyPnvhJ9xOPy79vzzZxxx79t7zP099OJxOPfz99XmOOOOLPmWPXj78z8mfi7Z8URP
+[26Feb2025 05:33:32.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 05:33:32.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 05:36:29.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Feb2025 05:36:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has reached the goal [Big Boy]
+[26Feb2025 05:37:20.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Feb2025 05:38:06.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Feb2025 05:38:33.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Feb2025 05:38:41.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 05:38:41.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 05:38:51.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[26Feb2025 05:39:09.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[26Feb2025 05:39:27.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[26Feb2025 05:39:46.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[26Feb2025 05:40:03.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[26Feb2025 05:40:20.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[26Feb2025 05:40:29.476] [Worker-Main-42/DEBUG] [mixin/]: Mixing DripstoneHelperMixin from the_afterdark.mixins.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[26Feb2025 05:40:29.476] [Worker-Main-42/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava_$md$a46113$0 in the_afterdark.mixins.json:DripstoneHelperMixin
+[26Feb2025 05:40:29.476] [Worker-Main-42/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase_$md$a46113$1 in the_afterdark.mixins.json:DripstoneHelperMixin
+[26Feb2025 05:40:29.476] [Worker-Main-42/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius_$md$a46113$2 in the_afterdark.mixins.json:DripstoneHelperMixin
+[26Feb2025 05:40:42.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
