@@ -7036,9 +7036,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-02-27 06:09:50 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
       "has_item": "2025-02-27 06:06:03 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-02-27 06:06:39 +0000"
     },
     "done": true
   },

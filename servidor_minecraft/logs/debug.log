@@ -6774,3 +6774,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 06:01:46.838] [Server thread/INFO] [Jade/]: Syncing config to TomanoMC (aae909ca-8c1a-3db0-819a-ff5f1fb6b09e)
 [27Feb2025 06:06:18.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 06:06:18.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 06:07:09.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved wrongly!
+[27Feb2025 06:09:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Double Trouble]
+[27Feb2025 06:10:48.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci withered away
+[27Feb2025 06:11:18.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 06:11:18.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 06:12:00.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved wrongly!
+[27Feb2025 06:12:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has reached the goal [Horror Under the Mantle]
+[27Feb2025 06:13:19.526] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a71c63bd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[27Feb2025 06:13:20.193] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a71c63bd: RandomSpreadSearchWorker succeeded with 4869 radius, 38 samples
+[27Feb2025 06:16:18.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 06:16:18.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -870,7 +870,8 @@
       "minecraft:stray": "2025-02-24 01:37:04 +0000",
       "minecraft:silverfish": "2025-02-24 02:34:04 +0000",
       "minecraft:enderman": "2025-02-27 04:50:00 +0000",
-      "minecraft:zombie": "2025-02-24 00:07:57 +0000"
+      "minecraft:zombie": "2025-02-24 00:07:57 +0000",
+      "minecraft:zombie_villager": "2025-02-27 06:13:04 +0000"
     },
     "done": false
   },
@@ -8261,6 +8262,12 @@
   "celestisynth:obtain_solaris": {
     "criteria": {
       "criteria": "2025-02-27 04:25:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-02-27 06:12:01 +0000"
     },
     "done": true
   },
