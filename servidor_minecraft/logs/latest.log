@@ -949,3 +949,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 04:51:09.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1698, y=74, z=-1469} BlockPos{x=-1698, y=73, z=-1468}
 [27Feb2025 04:51:09.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1698, y=74, z=-1469} BlockPos{x=-1698, y=73, z=-1468}
 [27Feb2025 04:53:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Pic-A-Nic Basket?]
+[27Feb2025 04:59:50.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Down to the Core]
+[27Feb2025 05:09:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Oh Shiny]
+[27Feb2025 05:12:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC tried to swim in lava
+[27Feb2025 05:12:51.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [A Voltanic Place]
+[27Feb2025 05:13:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [Fiery Beast]

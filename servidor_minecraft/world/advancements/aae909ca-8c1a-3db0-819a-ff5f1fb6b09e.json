@@ -6927,5 +6927,95 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-02-27 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-02-27 04:59:50 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-02-27 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-02-27 04:59:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-02-27 04:59:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-02-27 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_dupe": {
+    "criteria": {
+      "has_item": "2025-02-27 05:01:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
