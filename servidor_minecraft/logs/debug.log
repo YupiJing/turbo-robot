@@ -6217,3 +6217,43 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava_$md$9ea59e$0 in the_afterdark.mixins.json:DripstoneHelperMixin
 [27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase_$md$9ea59e$1 in the_afterdark.mixins.json:DripstoneHelperMixin
 [27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius_$md$9ea59e$2 in the_afterdark.mixins.json:DripstoneHelperMixin
+[27Feb2025 03:04:29.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:04:29.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:04:32.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Florence'/384, l='ServerLevel[world]', x=-1518.98, y=103.00, z=-2330.73] died, message: 'Florence was poked to death by a sweet berry bush'
+[27Feb2025 03:04:32.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Florence'/384, l='ServerLevel[world]', x=-1518.98, y=103.00, z=-2330.73] died: Florence was poked to death by a sweet berry bush
+[27Feb2025 03:05:13.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Norbert'/360, l='ServerLevel[world]', x=-1610.39, y=83.00, z=-2265.76] died, message: 'Norbert hit the ground too hard'
+[27Feb2025 03:05:13.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Norbert'/360, l='ServerLevel[world]', x=-1610.39, y=83.00, z=-2265.76] died: Norbert fell from a high place
+[27Feb2025 03:05:24.516] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[27Feb2025 03:05:24.517] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Feb2025 03:05:57.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lenaick'/323, l='ServerLevel[world]', x=-1530.22, y=95.00, z=-2421.63] died, message: 'Lenaick hit the ground too hard'
+[27Feb2025 03:05:57.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lenaick'/323, l='ServerLevel[world]', x=-1530.22, y=95.00, z=-2421.63] died: Lenaick fell from a high place
+[27Feb2025 03:06:08.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Clarisse'/335, l='ServerLevel[world]', x=-1451.56, y=111.00, z=-2328.24] died, message: 'Clarisse hit the ground too hard'
+[27Feb2025 03:06:08.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Clarisse'/335, l='ServerLevel[world]', x=-1451.56, y=111.00, z=-2328.24] died: Clarisse fell from a high place
+[27Feb2025 03:06:09.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Abigaëlle'/334, l='ServerLevel[world]', x=-1457.51, y=94.00, z=-2371.73] died, message: 'Abigaëlle hit the ground too hard'
+[27Feb2025 03:06:09.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Abigaëlle'/334, l='ServerLevel[world]', x=-1457.51, y=94.00, z=-2371.73] died: Abigaëlle fell from a high place
+[27Feb2025 03:06:16.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Argentine'/333, l='ServerLevel[world]', x=-1623.56, y=71.00, z=-2320.46] died, message: 'Argentine hit the ground too hard'
+[27Feb2025 03:06:16.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Argentine'/333, l='ServerLevel[world]', x=-1623.56, y=71.00, z=-2320.46] died: Argentine fell from a high place
+[27Feb2025 03:06:30.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pascal'/329, l='ServerLevel[world]', x=-1537.98, y=81.00, z=-2353.55] died, message: 'Pascal was poked to death by a sweet berry bush'
+[27Feb2025 03:06:30.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Pascal'/329, l='ServerLevel[world]', x=-1537.98, y=81.00, z=-2353.55] died: Pascal was poked to death by a sweet berry bush
+[27Feb2025 03:06:30.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ludovic'/331, l='ServerLevel[world]', x=-1534.08, y=80.00, z=-2345.78] died, message: 'Ludovic hit the ground too hard'
+[27Feb2025 03:06:30.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ludovic'/331, l='ServerLevel[world]', x=-1534.08, y=80.00, z=-2345.78] died: Ludovic hit the ground too hard
+[27Feb2025 03:07:08.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Catherine'/330, l='ServerLevel[world]', x=-1494.04, y=104.00, z=-2308.81] died, message: 'Catherine hit the ground too hard'
+[27Feb2025 03:07:08.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Catherine'/330, l='ServerLevel[world]', x=-1494.04, y=104.00, z=-2308.81] died: Catherine fell from a high place
+[27Feb2025 03:07:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC fell from a high place
+[27Feb2025 03:09:29.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:09:29.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:13:57.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC withered away
+[27Feb2025 03:14:03.744] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[27Feb2025 03:14:29.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:14:29.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:17:59.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC was slain by Raccoon
+[27Feb2025 03:19:29.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:19:29.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:21:41.095] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[27Feb2025 03:21:41.096] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/gui/CorpseInventoryContainer$2 (target of net/minecraft/world/inventory/Slot)
+[27Feb2025 03:21:41.096] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[27Feb2025 03:24:29.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:24:29.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:26:38.564] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[27Feb2025 03:29:29.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:29:29.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
