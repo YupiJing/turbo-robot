@@ -898,3 +898,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 22:35:34.970] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [27Feb2025 22:35:35.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [27Feb2025 22:35:38.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[27Feb2025 22:44:30.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sinergias[/127.67.121.108:53543] logged in with entity id 149 at (-2115.5, 64.0, -795.5)
+[27Feb2025 22:44:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias joined the game
+[27Feb2025 22:44:30.228] [Server thread/INFO] [Jade/]: Syncing config to sinergias (e09bc419-daa7-3bce-831f-5ec62030ef09)
+[27Feb2025 22:44:33.288] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Installed for use
+[27Feb2025 22:52:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [We do a little trolling...]
+[27Feb2025 22:54:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [Shai Hulud]
