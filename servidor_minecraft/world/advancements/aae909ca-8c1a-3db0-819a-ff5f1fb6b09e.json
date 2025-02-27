@@ -6857,6 +6857,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-27 00:37:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_3": "2025-02-27 00:35:30 +0000",
+      "trickor_treat_6": "2025-02-27 00:38:32 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-02-27 00:35:36 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-02-27 00:21:31 +0000"
