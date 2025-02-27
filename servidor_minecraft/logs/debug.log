@@ -6508,3 +6508,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 05:12:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC tried to swim in lava
 [27Feb2025 05:12:51.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [A Voltanic Place]
 [27Feb2025 05:13:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [Fiery Beast]
+[27Feb2025 05:16:18.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 05:16:18.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 05:17:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci tried to swim in lava
+[27Feb2025 05:19:10.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci burned to death
+[27Feb2025 05:21:18.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 05:21:18.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 05:24:31.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> -400 -460
+[27Feb2025 05:25:41.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=84, z=-222} BlockPos{x=-307, y=84, z=-222}
+[27Feb2025 05:25:42.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=84, z=-222} BlockPos{x=-307, y=84, z=-222}
