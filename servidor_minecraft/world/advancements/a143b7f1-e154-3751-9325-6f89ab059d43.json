@@ -7386,33 +7386,45 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
+      "killed_ghast": "2025-02-26 04:58:53 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/soul_vulture": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "killed_by": "2025-02-26 08:19:48 +0000"
+      "killed_by": "2025-02-26 05:02:28 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "minecraft:recipes/misc/quartz": {
     "criteria": {
-      "big_boy_0": "2025-02-26 05:36:57 +0000"
+      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_corrodent": {
+  "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
-      "killed": "2025-02-26 06:06:22 +0000"
+      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
+      "has_reeds": "2025-02-26 05:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-26 05:15:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-26 05:16:21 +0000"
     },
     "done": true
   },
@@ -7422,27 +7434,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-02-26 06:05:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-02-26 05:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
     },
     "done": true
   },
@@ -7452,51 +7446,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-02-26 08:03:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-02-26 05:41:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-02-26 06:03:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
     },
     "done": true
   },
@@ -7518,21 +7470,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_mossy_temple": {
-    "criteria": {
-      "mossy_temple": "2025-02-26 05:16:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-02-26 06:05:11 +0000"
     },
     "done": true
   },
@@ -7542,27 +7482,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-26 05:02:28 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
     },
     "done": true
   },
@@ -7572,27 +7494,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_bud": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
     },
     "done": true
   },
@@ -7602,21 +7506,63 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-02-26 05:15:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-26 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-02-26 05:36:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-02-26 05:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-26 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-02-26 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-26 05:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-26 05:57:57 +0000"
     },
     "done": true
   },
@@ -7632,45 +7578,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_sugar_cane": "2025-02-26 05:15:24 +0000"
+      "has_packed_mud": "2025-02-26 06:03:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz": {
+  "alexscaves:alexscaves/guano": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
+      "guano": "2025-02-26 06:05:07 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+  "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
+      "killed_by_underzealot": "2025-02-26 06:05:11 +0000"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
-      "killed_ghast": "2025-02-26 04:58:53 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_chair": {
-    "criteria": {
-      "has_planks": "2025-02-26 05:35:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
-    "criteria": {
-      "has_brimstone": "2025-02-26 08:18:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-02-26 06:37:45 +0000"
+      "killed": "2025-02-26 06:06:22 +0000"
     },
     "done": true
   },
@@ -7680,15 +7608,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-02-26 05:05:02 +0000"
+      "wheat": "2025-02-26 06:37:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-02-26 05:57:14 +0000"
+      "has_glowstone": "2025-02-26 08:03:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-02-26 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-26 08:19:48 +0000"
     },
     "done": true
   },
