@@ -869,6 +869,7 @@
       "minecraft:piglin": "2025-02-24 23:03:34 +0000",
       "minecraft:stray": "2025-02-24 01:37:04 +0000",
       "minecraft:silverfish": "2025-02-24 02:34:04 +0000",
+      "minecraft:enderman": "2025-02-27 04:50:00 +0000",
       "minecraft:zombie": "2025-02-24 00:07:57 +0000"
     },
     "done": false
@@ -8194,6 +8195,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-27 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-02-27 04:43:21 +0000"
     },
     "done": true
   },
