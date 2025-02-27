@@ -6857,9 +6857,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
-      "has_warped_fungus": "2025-02-27 00:37:35 +0000"
+      "spiky_bug": "2025-02-27 00:21:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-02-27 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-27 00:28:27 +0000"
     },
     "done": true
   },
@@ -6876,21 +6888,9 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "spiky_bug": "2025-02-27 00:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-02-27 00:28:27 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_ambusher": {
-    "criteria": {
-      "ambusher": "2025-02-27 00:25:47 +0000"
+      "has_warped_fungus": "2025-02-27 00:37:35 +0000"
     },
     "done": true
   },
