@@ -6203,3 +6203,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 02:53:08.294] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [27Feb2025 02:53:08.313] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [27Feb2025 02:53:08.313] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Feb2025 02:53:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Pic-A-Nic Basket?]
+[27Feb2025 02:54:29.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 02:54:29.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 02:54:36.108] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@7de3e7bd for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
+[27Feb2025 02:54:36.117] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@3e02f4b3] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
+[27Feb2025 02:55:01.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aldéric'/247, l='ServerLevel[world]', x=-1505.22, y=67.00, z=-2412.91] died, message: 'Aldéric was slain by Zombie'
+[27Feb2025 02:55:01.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aldéric'/247, l='ServerLevel[world]', x=-1505.22, y=67.00, z=-2412.91] died: Aldéric was slain by Zombie
+[27Feb2025 02:58:00.335] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Pascal}[style={}] has been infected
+[27Feb2025 02:59:29.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 02:59:29.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:00:49.228] [Worker-Main-1/DEBUG] [mixin/]: Mixing DripstoneHelperMixin from the_afterdark.mixins.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava_$md$9ea59e$0 in the_afterdark.mixins.json:DripstoneHelperMixin
+[27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase_$md$9ea59e$1 in the_afterdark.mixins.json:DripstoneHelperMixin
+[27Feb2025 03:00:49.229] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius_$md$9ea59e$2 in the_afterdark.mixins.json:DripstoneHelperMixin

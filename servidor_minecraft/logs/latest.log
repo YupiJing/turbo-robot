@@ -891,3 +891,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 02:45:28.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [27Feb2025 02:52:49.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gurvan'/337, l='ServerLevel[world]', x=-1511.50, y=92.00, z=-2340.54] died, message: 'Gurvan was poked to death by a sweet berry bush'
 [27Feb2025 02:52:49.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gurvan'/337, l='ServerLevel[world]', x=-1511.50, y=92.00, z=-2340.54] died: Gurvan was poked to death by a sweet berry bush
+[27Feb2025 02:53:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Pic-A-Nic Basket?]
+[27Feb2025 02:55:01.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aldéric'/247, l='ServerLevel[world]', x=-1505.22, y=67.00, z=-2412.91] died, message: 'Aldéric was slain by Zombie'
+[27Feb2025 02:55:01.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aldéric'/247, l='ServerLevel[world]', x=-1505.22, y=67.00, z=-2412.91] died: Aldéric was slain by Zombie
+[27Feb2025 02:58:00.335] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Pascal}[style={}] has been infected
