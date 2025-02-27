@@ -6235,3 +6235,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 22:58:26.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sinergias) moved wrongly! 1.0857410944909134
 [27Feb2025 23:00:37.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 23:00:37.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:05:37.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:05:37.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:06:19.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sinergias lost connection: Disconnected
+[27Feb2025 23:06:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias left the game
+[27Feb2025 23:10:37.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:10:37.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

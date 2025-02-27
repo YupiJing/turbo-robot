@@ -908,3 +908,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 22:55:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [Who is Cutting Onions?]
 [27Feb2025 22:58:26.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sinergias) moved wrongly! 0.7964602581951112
 [27Feb2025 22:58:26.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sinergias) moved wrongly! 1.0857410944909134
+[27Feb2025 23:06:19.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sinergias lost connection: Disconnected
+[27Feb2025 23:06:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias left the game
