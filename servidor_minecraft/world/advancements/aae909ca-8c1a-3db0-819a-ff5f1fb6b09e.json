@@ -800,6 +800,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-24 04:06:26 +0000",
       "cooked_mutton": "2025-02-24 07:22:04 +0000",
+      "sweet_berries": "2025-02-27 04:04:17 +0000",
       "cooked_beef": "2025-02-24 01:35:01 +0000",
       "beef": "2025-02-24 01:01:32 +0000",
       "baked_potato": "2025-02-25 02:36:36 +0000",
@@ -6896,7 +6897,19 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-27 02:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-27 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-02-27 03:05:25 +0000"
     },
@@ -6908,21 +6921,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-02-27 03:05:25 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-02-27 03:24:04 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-02-27 02:53:41 +0000"
     },
     "done": true
   },
