@@ -30,3 +30,11 @@ java.util.ConcurrentModificationException: null
 [27Feb2025 00:12:31.624] [Server thread/INFO] [Jade/]: Syncing config to TomanoMC (aae909ca-8c1a-3db0-819a-ff5f1fb6b09e)
 [27Feb2025 00:19:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Dripstone Everywhere]
 [27Feb2025 00:21:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [A Disgusting Worm]
+[27Feb2025 00:25:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [An Imposter]
+[27Feb2025 00:31:01.289] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[27Feb2025 00:31:01.291] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[27Feb2025 00:31:01.544] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[27Feb2025 00:31:01.545] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}

@@ -8759,3 +8759,17 @@ java.util.ConcurrentModificationException: null
 [27Feb2025 00:19:34.525] [Worker-Main-91/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-1688 | 5 | -2607)
 [27Feb2025 00:19:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Dripstone Everywhere]
 [27Feb2025 00:21:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [A Disgusting Worm]
+[27Feb2025 00:24:08.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 00:24:08.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 00:25:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [An Imposter]
+[27Feb2025 00:29:08.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 00:29:08.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 00:31:01.289] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[27Feb2025 00:31:01.291] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[27Feb2025 00:31:01.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[27Feb2025 00:31:01.544] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[27Feb2025 00:31:01.545] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[27Feb2025 00:34:08.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 00:34:08.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
