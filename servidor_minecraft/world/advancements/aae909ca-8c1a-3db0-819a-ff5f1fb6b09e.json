@@ -6987,6 +6987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-27 05:22:05 +0000"
+    },
+    "done": true
+  },
   "celestisynth:root": {
     "criteria": {
       "obtained_core": "2025-02-27 04:59:50 +0000"
@@ -7014,6 +7020,12 @@
   "celestisynth:recipes/misc/celestial_core_dupe": {
     "criteria": {
       "has_item": "2025-02-27 05:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-27 05:22:05 +0000"
     },
     "done": true
   },
