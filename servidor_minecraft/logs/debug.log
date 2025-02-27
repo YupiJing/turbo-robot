@@ -11828,3 +11828,35 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 07:04:03.033] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOROOZ8PvhLJ
 [27Feb2025 07:06:20.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 07:06:20.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 07:11:20.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 07:11:20.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 07:16:20.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 07:16:20.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 07:17:35.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neo_profeci lost connection: Disconnected
+[27Feb2025 07:17:35.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci left the game
+[27Feb2025 07:21:20.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 07:21:20.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 07:21:27.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC lost connection: Disconnected
+[27Feb2025 07:21:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC left the game
+[27Feb2025 07:23:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Feb2025 07:23:01.250] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[27Feb2025 07:23:01.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2025 07:23:01.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2025 07:23:01.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2025 07:23:01.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Feb2025 07:23:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_afterdark:afterdark
+[27Feb2025 07:23:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Feb2025 07:23:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:astral_dimension
+[27Feb2025 07:23:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:setback
+[27Feb2025 07:23:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Feb2025 07:23:01.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 07:23:01.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (afterdark): All chunks are saved
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_dimension): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (setback): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Feb2025 07:23:01.650] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[27Feb2025 07:23:01.651] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

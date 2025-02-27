@@ -1002,3 +1002,26 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 06:59:31.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2025, y=26, z=3610}
 [27Feb2025 07:02:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Cursed Pyramid]
 [27Feb2025 07:02:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Cursed Pyramid]
+[27Feb2025 07:17:35.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neo_profeci lost connection: Disconnected
+[27Feb2025 07:17:35.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci left the game
+[27Feb2025 07:21:27.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC lost connection: Disconnected
+[27Feb2025 07:21:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC left the game
+[27Feb2025 07:23:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Feb2025 07:23:01.250] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[27Feb2025 07:23:01.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2025 07:23:01.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2025 07:23:01.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2025 07:23:01.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Feb2025 07:23:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_afterdark:afterdark
+[27Feb2025 07:23:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Feb2025 07:23:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:astral_dimension
+[27Feb2025 07:23:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:setback
+[27Feb2025 07:23:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (afterdark): All chunks are saved
+[27Feb2025 07:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_dimension): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (setback): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 07:23:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Feb2025 07:23:01.651] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

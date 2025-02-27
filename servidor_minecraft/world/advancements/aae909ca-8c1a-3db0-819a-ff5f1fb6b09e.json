@@ -7037,6 +7037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-27 07:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 06:42:14 +0000"
@@ -7052,6 +7058,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-02-27 06:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-27 07:07:10 +0000"
     },
     "done": true
   },
@@ -7121,6 +7133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-27 07:11:56 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
       "has_item": "2025-02-27 06:06:03 +0000"
@@ -7163,9 +7181,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-27 07:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-02-27 07:11:56 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_leggings": {
     "criteria": {
       "has_item": "2025-02-27 06:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-27 07:07:10 +0000"
     },
     "done": true
   },
