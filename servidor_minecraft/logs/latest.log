@@ -964,3 +964,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 05:28:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC tried to swim in lava to escape Neo_profeci
 [27Feb2025 05:28:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci was doomed to fall by TomanoMC
 [27Feb2025 05:32:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci fell from a high place
+[27Feb2025 05:46:30.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=68, z=-149} BlockPos{x=-303, y=71, z=-147}
+[27Feb2025 05:46:30.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=68, z=-149} BlockPos{x=-303, y=71, z=-147}
+[27Feb2025 05:46:30.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=68, z=-149} BlockPos{x=-303, y=71, z=-147}
+[27Feb2025 05:46:37.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=70, z=-150} BlockPos{x=-301, y=75, z=-146}
+[27Feb2025 05:46:37.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=75, z=-146} BlockPos{x=-303, y=73, z=-148}
+[27Feb2025 05:46:42.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=80, z=-141} BlockPos{x=-299, y=79, z=-142}
+[27Feb2025 05:55:31.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-369, y=80, z=-190} BlockPos{x=-372, y=84, z=-202}
