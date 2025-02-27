@@ -904,3 +904,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 22:44:33.288] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Installed for use
 [27Feb2025 22:52:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [We do a little trolling...]
 [27Feb2025 22:54:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [Shai Hulud]
+[27Feb2025 22:55:42.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [Ice Bucket Challenge]
+[27Feb2025 22:55:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias has made the advancement [Who is Cutting Onions?]
+[27Feb2025 22:58:26.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sinergias) moved wrongly! 0.7964602581951112
+[27Feb2025 22:58:26.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sinergias) moved wrongly! 1.0857410944909134
