@@ -113,6 +113,7 @@
       "scrubland": "2025-02-21 05:53:04 +0000",
       "erupting_inferno": "2025-02-25 06:35:03 +0000",
       "floodplain": "2025-02-24 04:21:23 +0000",
+      "lush_savanna": "2025-02-27 06:32:05 +0000",
       "highland": "2025-02-24 06:09:20 +0000",
       "jacaranda_glade": "2025-02-24 06:09:00 +0000",
       "marsh": "2025-02-24 06:05:33 +0000",
@@ -125,6 +126,7 @@
       "mediterranean_forest": "2025-02-24 01:08:47 +0000",
       "coniferous_forest": "2025-02-20 20:44:20 +0000",
       "spider_nest": "2025-02-24 01:35:47 +0000",
+      "dryland": "2025-02-27 06:32:45 +0000",
       "wasteland": "2025-02-20 20:36:37 +0000",
       "lush_desert": "2025-02-20 20:36:34 +0000",
       "redwood_forest": "2025-02-21 05:46:02 +0000",
@@ -1206,6 +1208,7 @@
       "minecraft:stray": "2025-02-24 02:29:57 +0000",
       "minecraft:vex": "2025-02-26 23:46:55 +0000",
       "minecraft:zombie": "2025-02-24 01:39:25 +0000",
+      "minecraft:drowned": "2025-02-27 06:31:12 +0000",
       "minecraft:zombie_villager": "2025-02-24 21:16:12 +0000"
     },
     "done": false
@@ -7030,9 +7033,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-27 06:30:42 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_chestplate": {
     "criteria": {
       "has_item": "2025-02-27 06:06:03 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-02-27 06:33:03 +0000"
     },
     "done": true
   },
