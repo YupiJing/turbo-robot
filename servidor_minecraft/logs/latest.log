@@ -971,3 +971,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 05:46:37.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=75, z=-146} BlockPos{x=-303, y=73, z=-148}
 [27Feb2025 05:46:42.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=80, z=-141} BlockPos{x=-299, y=79, z=-142}
 [27Feb2025 05:55:31.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-369, y=80, z=-190} BlockPos{x=-372, y=84, z=-202}
+[27Feb2025 05:57:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> tomano no se te escucha
+[27Feb2025 05:58:19.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=78, z=-52} BlockPos{x=-327, y=77, z=-52}
+[27Feb2025 06:01:10.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC lost connection: Disconnected
+[27Feb2025 06:01:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC left the game
+[27Feb2025 06:01:10.927] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Feb2025 06:01:46.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TomanoMC[/127.168.11.75:42173] logged in with entity id 42632 at (-300.9966980770251, 77.3125, -94.91427997172586)
+[27Feb2025 06:01:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC joined the game
+[27Feb2025 06:01:46.838] [Server thread/INFO] [Jade/]: Syncing config to TomanoMC (aae909ca-8c1a-3db0-819a-ff5f1fb6b09e)
