@@ -105,6 +105,7 @@
       "rocky_rainforest": "2025-02-24 04:25:59 +0000",
       "volcanic_plains": "2025-02-24 04:40:13 +0000",
       "lavender_field": "2025-02-24 06:16:41 +0000",
+      "fir_clearing": "2025-02-27 04:37:10 +0000",
       "prairie": "2025-02-20 20:40:45 +0000",
       "grassland": "2025-02-24 06:44:25 +0000",
       "glowing_grotto": "2025-02-26 05:40:14 +0000",
@@ -8196,9 +8197,21 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-02-27 04:35:13 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_solaris": {
     "criteria": {
       "criteria": "2025-02-27 04:25:21 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-02-27 04:36:11 +0000"
     },
     "done": true
   },

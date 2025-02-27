@@ -936,3 +936,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [27Feb2025 04:31:49.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
 [27Feb2025 04:32:07.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
 [27Feb2025 04:33:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC was shot by Supreme Bonescaller
+[27Feb2025 04:35:07.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Feb2025 04:35:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Dripstone Everywhere]
+[27Feb2025 04:36:11.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [A Disgusting Worm]
+[27Feb2025 04:39:53.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1531, y=67, z=-2759} BlockPos{x=-1531, y=67, z=-2758}
+[27Feb2025 04:41:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC was damaged by Neo_profeci repeatedly until death.
+[27Feb2025 04:41:48.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adeline'/14911, l='ServerLevel[world]', x=-1487.29, y=88.00, z=-2355.29] died, message: 'Adeline was slain by Decaying Zombie'
+[27Feb2025 04:41:48.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adeline'/14911, l='ServerLevel[world]', x=-1487.29, y=88.00, z=-2355.29] died: Adeline was slain by Decaying Zombie
+[27Feb2025 04:43:21.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Convergent Evolution...]
