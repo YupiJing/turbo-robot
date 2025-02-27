@@ -88,9 +88,11 @@
       "minecraft:swamp": "2025-02-24 06:05:28 +0000",
       "minecraft:forest": "2025-02-21 05:46:01 +0000",
       "minecraft:lush_caves": "2025-02-26 05:35:24 +0000",
+      "minecraft:desert": "2025-02-27 07:01:43 +0000",
       "minecraft:ocean": "2025-02-24 00:52:15 +0000",
       "minecraft:jungle": "2025-02-24 22:08:45 +0000",
       "minecraft:windswept_savanna": "2025-02-24 06:23:47 +0000",
+      "minecraft:warm_ocean": "2025-02-27 07:01:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-24 00:50:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-25 03:54:51 +0000",
       "minecraft:meadow": "2025-02-27 03:48:45 +0000",
@@ -117,6 +119,7 @@
       "highland": "2025-02-24 06:09:20 +0000",
       "jacaranda_glade": "2025-02-24 06:09:00 +0000",
       "marsh": "2025-02-24 06:05:33 +0000",
+      "jade_cliffs": "2025-02-27 06:57:03 +0000",
       "mystic_grove": "2025-02-24 06:31:57 +0000",
       "old_growth_woodland": "2025-02-21 05:45:52 +0000",
       "crystalline_chasm": "2025-02-25 03:29:33 +0000",
@@ -7106,6 +7109,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-27 06:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-27 06:42:14 +0000"
@@ -7169,6 +7178,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-02-27 06:42:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-02-27 07:02:21 +0000"
     },
     "done": true
   },
