@@ -7275,5 +7275,17 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-28 06:15:38 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-28 06:15:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

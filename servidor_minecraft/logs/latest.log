@@ -940,3 +940,16 @@ java.lang.NullPointerException: Cannot invoke "team.lodestar.lodestone.systems.w
 [28Feb2025 05:45:42.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
 [28Feb2025 05:53:35.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neo_profeci moved too quickly! -2.785961877763839,-1.0,-10.620644831473555
 [28Feb2025 06:10:37.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved wrongly!
+[28Feb2025 06:15:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Through the Gauntlet]
+[28Feb2025 06:17:53.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=53, z=-60} BlockPos{x=-290, y=54, z=-61}
+[28Feb2025 06:17:53.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=53, z=-60} BlockPos{x=-290, y=54, z=-61}
+[28Feb2025 06:17:53.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=53, z=-60} BlockPos{x=-290, y=54, z=-61}
+[28Feb2025 06:17:53.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=53, z=-60} BlockPos{x=-290, y=54, z=-61}
+[28Feb2025 06:17:53.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=53, z=-60} BlockPos{x=-290, y=54, z=-61}
+[28Feb2025 06:17:54.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-289, y=55, z=-62} BlockPos{x=-290, y=55, z=-62}
+[28Feb2025 06:17:55.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-288, y=57, z=-64} BlockPos{x=-289, y=56, z=-62}
+[28Feb2025 06:17:58.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=58, z=-65} BlockPos{x=-283, y=61, z=-67}
+[28Feb2025 06:17:58.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=58, z=-66} BlockPos{x=-283, y=61, z=-67}
+[28Feb2025 06:17:58.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=58, z=-66} BlockPos{x=-283, y=61, z=-67}
+[28Feb2025 06:17:58.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=58, z=-66} BlockPos{x=-283, y=61, z=-67}
+[28Feb2025 06:18:08.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=69, z=-74} BlockPos{x=-275, y=70, z=-75}
