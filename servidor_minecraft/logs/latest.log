@@ -909,3 +909,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 07:08:30.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [A Voltanic Place]
 [28Feb2025 07:08:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has completed the challenge [Fiery Beast]
 [28Feb2025 07:19:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Fishy Business]
+[28Feb2025 07:42:43.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved wrongly!
