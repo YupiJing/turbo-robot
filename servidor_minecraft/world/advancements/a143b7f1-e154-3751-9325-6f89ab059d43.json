@@ -8587,6 +8587,24 @@
     },
     "done": false
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-02-28 05:32:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-02-28 05:37:09 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-02-28 06:15:03 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
       "has_blazing_eye": "2025-02-28 06:15:11 +0000"
@@ -8599,21 +8617,15 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "bosses_of_mass_destruction:gauntlet": "2025-02-28 06:15:03 +0000"
+      "blacksmith": "2025-02-28 06:32:58 +0000"
     },
     "done": true
   },
-  "cataclysm:kill_remnant": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
-      "ignis": "2025-02-28 05:32:49 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-02-28 05:37:09 +0000"
+      "has_polished_blackstone_slab": "2025-02-28 06:41:38 +0000"
     },
     "done": true
   },
