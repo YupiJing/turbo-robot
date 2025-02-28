@@ -6473,3 +6473,15 @@ java.lang.NullPointerException: Cannot invoke "team.lodestar.lodestone.systems.w
 [28Feb2025 05:42:50.007] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgePlatformHelper@aa80115 for service interface com.cerbon.cerbons_api.platform.services.IPlatformHelper
 [28Feb2025 05:42:50.007] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeRegistryHelper@44339cdb for service interface com.cerbon.cerbons_api.platform.services.IRegistryHelper
 [28Feb2025 05:42:50.008] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeCapabilityHelper@9d60cf1 for service interface com.cerbon.cerbons_api.platform.services.ICapabilityHelper
+[28Feb2025 05:44:34.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 05:44:34.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 05:45:42.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Feb2025 05:46:23.004] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$1 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 05:46:23.005] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$2 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 05:46:23.005] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$3 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 05:49:31.270] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[28Feb2025 05:49:31.270] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md4425da$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[28Feb2025 05:49:31.272] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/IItemHandler (target of net/minecraftforge/items/IItemHandler)
+[28Feb2025 05:49:36.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 05:49:36.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 05:53:35.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neo_profeci moved too quickly! -2.785961877763839,-1.0,-10.620644831473555
