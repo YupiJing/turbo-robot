@@ -933,3 +933,7 @@ java.lang.NullPointerException: Cannot invoke "team.lodestar.lodestone.systems.w
 [28Feb2025 05:25:01.282] [Server thread/INFO] [Jade/]: Syncing config to TomanoMC (aae909ca-8c1a-3db0-819a-ff5f1fb6b09e)
 [28Feb2025 05:25:22.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6794ms or 135 ticks behind
 [28Feb2025 05:32:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [Death finds a Way]
+[28Feb2025 05:37:09.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has reached the goal [Exorcism]
+[28Feb2025 05:39:09.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[28Feb2025 05:42:25.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Feb2025 05:42:29.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

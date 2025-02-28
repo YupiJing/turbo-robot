@@ -6438,3 +6438,38 @@ java.lang.NullPointerException: Cannot invoke "team.lodestar.lodestone.systems.w
 [28Feb2025 05:30:54.384] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@3e54555f for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
 [28Feb2025 05:30:54.398] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@456cd360] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
 [28Feb2025 05:32:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [Death finds a Way]
+[28Feb2025 05:34:31.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 05:34:31.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 05:35:52.622] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[28Feb2025 05:35:53.644] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[28Feb2025 05:36:57.644] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Feb2025 05:36:57.644] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Feb2025 05:36:57.644] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.645] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Feb2025 05:36:57.894] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Feb2025 05:36:57.895] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Feb2025 05:36:57.895] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Feb2025 05:36:57.897] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[28Feb2025 05:36:57.897] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[28Feb2025 05:36:58.887] [Worker-Main-1/DEBUG] [mixin/]: Mixing DripstoneHelperMixin from the_afterdark.mixins.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[28Feb2025 05:36:58.887] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava_$md$4425da$0 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 05:36:58.887] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase_$md$4425da$1 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 05:36:58.887] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius_$md$4425da$2 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 05:37:09.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has reached the goal [Exorcism]
+[28Feb2025 05:37:57.723] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1777, y=64, z=4227}
+[28Feb2025 05:37:57.723] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[28Feb2025 05:37:57.723] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[28Feb2025 05:37:57.723] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJJxx0x+nXeP1761PR+txPXkmPfSpJK
+[28Feb2025 05:39:09.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[28Feb2025 05:39:34.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 05:39:34.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 05:42:25.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Feb2025 05:42:29.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Feb2025 05:42:50.007] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgePlatformHelper@aa80115 for service interface com.cerbon.cerbons_api.platform.services.IPlatformHelper
+[28Feb2025 05:42:50.007] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeRegistryHelper@44339cdb for service interface com.cerbon.cerbons_api.platform.services.IRegistryHelper
+[28Feb2025 05:42:50.008] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeCapabilityHelper@9d60cf1 for service interface com.cerbon.cerbons_api.platform.services.ICapabilityHelper

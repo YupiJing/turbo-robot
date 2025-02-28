@@ -986,6 +986,7 @@
       "golden_carrot": "2025-02-25 03:29:22 +0000",
       "cooked_rabbit": "2025-02-24 23:19:33 +0000",
       "cooked_chicken": "2025-02-25 04:04:31 +0000",
+      "enchanted_golden_apple": "2025-02-28 05:32:15 +0000",
       "carrot": "2025-02-24 01:03:37 +0000"
     },
     "done": false
@@ -8585,6 +8586,18 @@
       "has_sherd": "2025-02-28 05:03:07 +0000"
     },
     "done": false
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-02-28 05:32:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-02-28 05:37:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
