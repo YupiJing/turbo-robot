@@ -900,3 +900,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 06:44:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [The broken Nether's warmachine]
 [28Feb2025 06:45:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has completed the challenge [The Soul Eater]
 [28Feb2025 06:46:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Best Friends Forever]
+[28Feb2025 06:51:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [The Soul Fortress]
+[28Feb2025 06:53:15.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=46, z=-809} BlockPos{x=-836, y=46, z=-810}
+[28Feb2025 06:55:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has completed the challenge [Return to Sender]
+[28Feb2025 06:56:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Long Time Ago]
+[28Feb2025 06:56:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Long Time Ago]
