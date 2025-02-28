@@ -133,6 +133,7 @@
       "wasteland": "2025-02-20 20:36:37 +0000",
       "lush_desert": "2025-02-20 20:36:34 +0000",
       "redwood_forest": "2025-02-21 05:46:02 +0000",
+      "wasteland_steppe": "2025-02-28 03:15:52 +0000",
       "dune_beach": "2025-02-24 03:59:24 +0000",
       "volcano": "2025-02-24 04:40:30 +0000",
       "rocky_rainforest": "2025-02-24 04:23:04 +0000",
@@ -7234,6 +7235,12 @@
       "has_sherd": "2025-02-28 03:04:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-28 03:08:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -895,3 +895,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 03:04:32.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sinergias lost connection: Disconnected
 [28Feb2025 03:04:32.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sinergias left the game
 [28Feb2025 03:07:33.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved wrongly!
+[28Feb2025 03:11:27.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Feb2025 03:21:43.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! -2.923962858372761,-5.991095487236947,7.49999518484492
+[28Feb2025 03:21:43.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind

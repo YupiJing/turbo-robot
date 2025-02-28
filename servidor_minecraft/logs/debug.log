@@ -6425,3 +6425,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 03:11:16.588] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [28Feb2025 03:11:16.591] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [28Feb2025 03:11:16.591] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[28Feb2025 03:11:27.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Feb2025 03:12:27.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:12:27.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:13:59.155] [Worker-Main-10/DEBUG] [mixin/]: Mixing DripstoneHelperMixin from the_afterdark.mixins.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[28Feb2025 03:13:59.155] [Worker-Main-10/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateOrLava(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;)Z to invokeCanGenerateOrLava_$md$cb9b9f$0 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 03:13:59.155] [Worker-Main-10/DEBUG] [mixin/]: Renaming @Invoker method invokeCanGenerateBase(Lnet/minecraft/world/level/WorldGenLevel;Lnet/minecraft/core/BlockPos;I)Z to invokeCanGenerateBase_$md$cb9b9f$1 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 03:13:59.155] [Worker-Main-10/DEBUG] [mixin/]: Renaming @Invoker method invokeScaleHeightFromRadius(DDDD)D to invokeScaleHeightFromRadius_$md$cb9b9f$2 in the_afterdark.mixins.json:DripstoneHelperMixin
+[28Feb2025 03:17:27.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:17:27.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:21:43.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! -2.923962858372761,-5.991095487236947,7.49999518484492
+[28Feb2025 03:21:43.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
