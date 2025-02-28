@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-24 00:51:02 +0000",
+      "minecraft:eroded_badlands": "2025-02-28 03:22:04 +0000",
       "minecraft:birch_forest": "2025-02-24 21:48:21 +0000",
       "minecraft:windswept_hills": "2025-02-24 06:11:10 +0000",
       "minecraft:bamboo_jungle": "2025-02-24 05:25:24 +0000",
@@ -7224,6 +7225,18 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-02-28 03:31:10 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-28 03:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-28 03:04:09 +0000"
@@ -7235,6 +7248,12 @@
       "has_sherd": "2025-02-28 03:04:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-02-28 03:46:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {

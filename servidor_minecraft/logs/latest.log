@@ -898,3 +898,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 03:11:27.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [28Feb2025 03:21:43.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! -2.923962858372761,-5.991095487236947,7.49999518484492
 [28Feb2025 03:21:43.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[28Feb2025 03:30:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Covered in Moss]
+[28Feb2025 03:31:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has completed the challenge [The Mossy Beast]
+[28Feb2025 03:36:52.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Marina'/13764, l='ServerLevel[world]', x=-2135.63, y=104.00, z=6804.09] died: Marina was slain by Foliaath
+[28Feb2025 04:00:41.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Hiroyasu'/19816, l='ServerLevel[world]', x=-2190.85, y=110.50, z=7215.23] died: Hiroyasu was slain by Foliaath
+[28Feb2025 04:06:08.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC lost connection: Disconnected
+[28Feb2025 04:06:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC left the game
+[28Feb2025 04:10:31.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Neo_profeci[/127.123.112.248:36215] logged in with entity id 21281 at (-2112.0982701625358, 64.0, -797.8891166024935)
+[28Feb2025 04:10:31.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci joined the game
+[28Feb2025 04:10:31.679] [Server thread/INFO] [Jade/]: Syncing config to Neo_profeci (a143b7f1-e154-3751-9325-6f89ab059d43)
