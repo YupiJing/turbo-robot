@@ -7225,18 +7225,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_overgrown_colossus": {
-    "criteria": {
-      "colossus": "2025-02-28 03:31:10 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_mossy_temple": {
-    "criteria": {
-      "mossy_temple": "2025-02-28 03:30:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-28 03:04:09 +0000"
@@ -7249,15 +7237,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2025-02-28 03:46:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-28 03:08:30 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-02-28 03:30:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-02-28 03:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-02-28 03:46:16 +0000"
     },
     "done": true
   },
