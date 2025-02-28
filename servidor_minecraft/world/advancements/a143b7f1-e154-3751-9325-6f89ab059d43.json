@@ -8562,17 +8562,29 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-28 04:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-28 04:46:24 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "travelled": "2025-02-28 04:46:18 +0000"
+      "has_brick": "2025-02-28 05:03:07 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-28 05:03:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
