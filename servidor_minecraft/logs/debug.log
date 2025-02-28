@@ -6440,3 +6440,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [28Feb2025 06:57:57.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Feb2025 07:02:57.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Feb2025 07:02:57.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 07:07:57.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 07:07:57.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 07:08:30.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [A Voltanic Place]
+[28Feb2025 07:08:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has completed the challenge [Fiery Beast]
+[28Feb2025 07:12:57.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 07:12:57.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 07:16:13.751] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$1 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 07:16:13.752] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$2 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 07:16:13.752] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/enchantinginfuser/world/inventory/InfuserMenu$3 (target of net/minecraft/world/inventory/Slot)
+[28Feb2025 07:17:57.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 07:17:57.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 07:18:53.354] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[28Feb2025 07:18:53.354] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdda25a0$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[28Feb2025 07:18:53.356] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/IItemHandler (target of net/minecraftforge/items/IItemHandler)
+[28Feb2025 07:19:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Fishy Business]
+[28Feb2025 07:22:57.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 07:22:57.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
